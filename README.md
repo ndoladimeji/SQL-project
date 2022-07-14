@@ -10,9 +10,9 @@ Sakila movie is an online dvd rental company with a database. The sakila movie d
 
 This project is an SQL project that uses filters and aggregations in SQL to produce good visualizations. All filtering and aggregations were done using SQL queries. The visualizations were done using excel. The entity realationship diagram is a useful supporting material used in writing the queries. The database was queried to gain an understanding of the customer base. This project answers interesting questions such as:
 
--[] what the patterns in movie watching are across different customer groups 
--[] how they compare on payment earnings 
--[] how the stores compare in their performance to give information on the various categories of movies
+- [] what the patterns in movie watching are across different customer groups 
+- [] how they compare on payment earnings 
+- [] how the stores compare in their performance to give information on the various categories of movies
 
 
 
@@ -22,6 +22,8 @@ This project is an SQL project that uses filters and aggregations in SQL to prod
 
 
 <img width="374" alt="sql 4" src="https://user-images.githubusercontent.com/103776681/179098358-4ada8c1c-ad55-499e-8037-c22cc0dd6850.PNG">
+
+
 
 
 
